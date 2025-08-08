@@ -1,16 +1,19 @@
-# calc
+تطبيق آلة حاسبة مبني باستخدام Flutter.
 
-A new Flutter project.
+## وصف المشروع
+تطبيق بسيط يقوم بإجراء العمليات الحسابية الأساسية مثل الجمع والطرح والضرب والقسمة، مع واجهة مستخدم سهلة الاستخدام.
 
-## Getting Started
+## الميزات
+- واجهة مستخدم جميلة وسهلة.
+- دعم العمليات الحسابية الأساسية.
+- تصميم متجاوب يعمل على مختلف الشاشات.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## كيفية التشغيل
+لتشغيل المشروع محليًا:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/username/calc.git
+cd calc
+flutter pub get
+flutter run
